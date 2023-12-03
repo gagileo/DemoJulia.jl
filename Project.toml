@@ -1,0 +1,7 @@
+name = "DemoJulia"
+uuid = "93b65c1a-4176-4df9-ab72-419f3fc18c84"
+authors = ["Dragan Babic <babic.dr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
